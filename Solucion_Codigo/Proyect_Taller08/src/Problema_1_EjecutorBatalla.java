@@ -259,3 +259,42 @@ public class Problema_1_EjecutorBatalla {
        
     }
 }
+
+/**
+ * run:
+Comienza la pelea entre Thorfin y Harry
+
+ Turno 1
+Thorfin ataca cuerpo a cuerpo causando 8 de danio.
+Harry invoca un escudo magico y reduce el danio a la mitad.
+
+ Turno 2
+Harry lanza Expelliarmus causando 9 de danio magico, ahora le queda 5 mana.
+Thorfin bloquea 2 de danio
+
+ Turno 3
+Thorfin ataca cuerpo a cuerpo causando 7 de danio.
+Harry invoca un escudo magico y reduce el danio a la mitad.
+
+ Turno 4
+Harry lanza Expelliarmus causando 10 de danio magico, ahora le queda 0 mana.
+Thorfin bloquea 2 de danio
+
+ Turno 5
+Thorfin ataca cuerpo a cuerpo causando 7 de danio.
+
+ Turno 6
+Harry no tiene mana y golpea con su baston
+Thorfin bloquea 2 de danio
+
+ Turno 7
+Thorfin ataca cuerpo a cuerpo causando 7 de danio.
+Thorfin ha salido Victorioso!
+
+RESULTADO FINAL
+
+Guerrero{fuerza=7, armadura=2}Personaje{nombre=Thorfin, ptsVida=5, vidaMax=20, lvlExp=2, nivel=1, batallasGanadas=1, expSubirLvl=3}
+
+Mago{hechizo=Expelliarmus, mana=0, manaMax=10}Personaje{nombre=Harry, ptsVida=0, vidaMax=16, lvlExp=1, nivel=1, batallasGanadas=0, expSubirLvl=3}
+BUILD SUCCESSFUL (total time: 0 seconds)
+ */
