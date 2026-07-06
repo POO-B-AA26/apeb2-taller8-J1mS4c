@@ -208,3 +208,14 @@ public class Problema_2_EjecutorMenu {
         System.out.println(cuenta);
     }
 }
+/**
+run-single:
+CuentaPorPagar{nombreCliente=Maria Fernandez}
+menusSolicitados=
+MenuALaCarta{guarnicion=$1.2, bebida=$1.5, servicio=10.0%} Lomo salteado [valorInicial=$8.50, valorFinal=$12.05]
+MenuDelDia{postre=$1.0, bebida=$1.0} Seco de Pollo [valorInicial=$4.50, valorFinal=$6.50]
+MenuInfantil{helado=$0.75, pastel=$0.75} Nuggets de Pollo [valorInicial=$3.00, valorFinal=$4.50]
+MenuEconomico{descuento=15.0%} Sopa de arroz [valorInicial=$5.00, valorFinal=$4.25]
+subtotal=$27.30, iva=$4.10, totalPagar=$31.39
+BUILD SUCCESSFUL (total time: 0 seconds)
+ */
